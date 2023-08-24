@@ -5,7 +5,7 @@
       "setup": "",
       "run": "javac ifElse.java && java ifElse",
       "input": "",
-      "output": "April is in the Spring",
+      "output": "April is in the Spring.",
       "comparison": "included",
       "timeout": 10,
       "points": 5
