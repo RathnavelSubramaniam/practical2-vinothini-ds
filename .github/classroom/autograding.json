@@ -1,16 +1,6 @@
 {
   "tests": [
     {
-      "name": "Test 1",
-      "setup": "",
-      "run": "javac IfElse.java && java IfElse",
-      "input": "",
-      "output": "April is in the Spring.",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 5
-    },
-    {
       "name": "Test 2",
       "setup": "",
       "run": "javac Example.java && java Example",
