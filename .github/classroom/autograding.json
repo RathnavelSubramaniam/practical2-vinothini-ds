@@ -5,7 +5,7 @@
       "setup": "",
       "run": "javac Example.java && java Example",
       "input": "",
-      "output": "April is in the spring.",
+      "output": "The given month is in the Summer.",
       "comparison": "included",
       "timeout": 10,
       "points": 10
